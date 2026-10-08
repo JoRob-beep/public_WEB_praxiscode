@@ -1,0 +1,140 @@
+{
+  "theme": "dark",
+  "weekOffset": 0,
+  "topics": [
+    {
+      "id": 1,
+      "name": "Projekt",
+      "color": "#2563eb"
+    },
+    {
+      "id": 2,
+      "name": "Lernen",
+      "color": "#16a34a"
+    },
+    {
+      "id": 3,
+      "name": "Privat",
+      "color": "#dc2626"
+    },
+    {
+      "id": 1790521983729,
+      "name": "AMS",
+      "color": "#0891b2"
+    },
+    {
+      "id": 1790632431716,
+      "name": "Rad fahren",
+      "color": "#2563eb"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1790522702011,
+      "text": "Bewerbung",
+      "status": "done",
+      "done": true,
+      "order": 2,
+      "topic": 1790521983729,
+      "priority": "Hoch",
+      "date": "2026-09-27",
+      "dueDate": "2026-09-27",
+      "sprints": "",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "rec": "none"
+    },
+    {
+      "id": 1790632351646,
+      "text": "Ventilator verbessern Betti",
+      "status": "todo",
+      "done": false,
+      "order": 1,
+      "topic": 3,
+      "priority": "Niedrig",
+      "date": "",
+      "dueDate": "",
+      "sprints": "Automatisch abschalten\nAbzug",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "rec": "none"
+    },
+    {
+      "id": 1790632415380,
+      "text": "Auto putzen",
+      "status": "todo",
+      "done": false,
+      "order": 2,
+      "topic": 3,
+      "priority": "Mittel",
+      "date": "2026-09-29",
+      "dueDate": "",
+      "sprints": "",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "rec": "none"
+    },
+    {
+      "id": 1790632480908,
+      "text": "Waschen",
+      "status": "inprogress",
+      "done": false,
+      "order": 2,
+      "topic": 3,
+      "priority": "Mittel",
+      "date": "2026-09-29",
+      "dueDate": "2026-10-17",
+      "sprints": "Bei jeder Gelegenheit waschen",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "rec": "none"
+    },
+    {
+      "id": 1790632608308,
+      "text": "CCC Programmierung",
+      "status": "inprogress",
+      "done": false,
+      "order": 1,
+      "topic": 1,
+      "priority": "Mittel",
+      "date": "2026-09-29",
+      "dueDate": "2026-10-23",
+      "sprints": "Sprints jeden möglichen Tag",
+      "startTime": "09:00",
+      "endTime": "14:00",
+      "rec": "none"
+    },
+    {
+      "id": 1790632718084,
+      "text": "Hydro",
+      "status": "todo",
+      "done": false,
+      "order": 6,
+      "topic": 1,
+      "priority": "Niedrig",
+      "date": "",
+      "dueDate": "",
+      "sprints": "- Elektr\n- Pflanzen",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "rec": "none"
+    }
+  ],
+  "boxes": [
+    {
+      "id": 21,
+      "title": "Fokusarbeit",
+      "minutes": 50,
+      "remaining": 3000,
+      "running": false
+    },
+    {
+      "id": 22,
+      "title": "Pause",
+      "minutes": 10,
+      "remaining": 600,
+      "running": false
+    }
+  ],
+  "events": []
+}

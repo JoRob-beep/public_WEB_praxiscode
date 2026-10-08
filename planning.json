@@ -1,0 +1,170 @@
+{
+  "theme": "light",
+  "weekOffset": 0,
+  "topics": [
+    {
+      "id": 1790017527076,
+      "name": "Hydrokultur",
+      "color": "#2563eb"
+    },
+    {
+      "id": 1790017553865,
+      "name": "Programmieren",
+      "color": "#db2777"
+    },
+    {
+      "id": 1790236069293,
+      "name": "Bewerbung",
+      "color": "#9333ea"
+    },
+    {
+      "id": 1790260863969,
+      "name": "Welcher Job: Remote / Hackln? ",
+      "color": "#ea580c"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 11,
+      "text": "Aufbau Arduino",
+      "done": false,
+      "priority": "Niedrig",
+      "topic": 1790017527076,
+      "due": "",
+      "rec": "none",
+      "order": 4,
+      "date": "",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "status": "todo",
+      "dueDate": "",
+      "sprints": ""
+    },
+    {
+      "id": 1790017650837,
+      "text": "Weitere Sensoren 5V",
+      "done": false,
+      "topic": 1790017527076,
+      "priority": "Niedrig",
+      "due": "",
+      "rec": "none",
+      "order": 5,
+      "date": "",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "status": "todo",
+      "dueDate": "",
+      "sprints": ""
+    },
+    {
+      "id": 1790017689395,
+      "text": "Programmieren Arduino",
+      "done": false,
+      "topic": 1790017527076,
+      "priority": "Mittel",
+      "due": "",
+      "rec": "none",
+      "order": 3,
+      "date": "",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "status": "todo",
+      "dueDate": "",
+      "sprints": ""
+    },
+    {
+      "id": 1790017745631,
+      "text": "Anfang zu growen (Nach Aufbau) ",
+      "done": false,
+      "topic": 1790017527076,
+      "priority": "Niedrig",
+      "due": "",
+      "rec": "none",
+      "order": 4,
+      "date": "",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "status": "todo",
+      "dueDate": "",
+      "sprints": ""
+    },
+    {
+      "id": 1790017832595,
+      "text": "Erste ÜbAufgabe Wettbew machen",
+      "done": false,
+      "topic": 1790017553865,
+      "priority": "Hoch",
+      "due": "",
+      "rec": "none",
+      "order": 2,
+      "date": "2026-09-24",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "status": "todo",
+      "dueDate": "",
+      "sprints": ""
+    },
+    {
+      "id": 1790243226428,
+      "text": "Bewerbung",
+      "done": true,
+      "order": 1,
+      "topic": 1790236069293,
+      "priority": "Mittel",
+      "date": "2026-09-24",
+      "startTime": "12:00",
+      "endTime": "15:00",
+      "rec": "none",
+      "status": "done",
+      "dueDate": "2026-09-27",
+      "sprints": ""
+    },
+    {
+      "id": 1790529262143,
+      "text": "Zeitman richtig syncen",
+      "status": "inprogress",
+      "done": false,
+      "order": 7,
+      "topic": null,
+      "priority": "Mittel",
+      "date": "",
+      "dueDate": "",
+      "sprints": "",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "rec": "none"
+    }
+  ],
+  "boxes": [
+    {
+      "id": 21,
+      "title": "Fokusarbeit",
+      "minutes": 50,
+      "remaining": 3000,
+      "running": false
+    },
+    {
+      "id": 22,
+      "title": "Pause",
+      "minutes": 10,
+      "remaining": 600,
+      "running": false
+    }
+  ],
+  "events": [
+    {
+      "id": 1790016123130,
+      "title": "Betti",
+      "date": "2026-09-20",
+      "time": "08:00",
+      "topic": null
+    },
+    {
+      "id": 1790016198535,
+      "title": "bgefh",
+      "date": "2026-09-20",
+      "time": "08:00",
+      "topic": 2
+    }
+  ]
+}
